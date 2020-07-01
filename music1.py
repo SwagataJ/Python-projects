@@ -49,7 +49,7 @@ print("Type ADD to add new track")
 print("Type SKIP to skip track")
 print("Type REPLAY to replay track")
 print("Type QUIT to quit")'''
-song_list=list()
+song_list=[]
 with open("file_names.txt") as file:
     #song_list.append(file.readline())
     file=file.read()
