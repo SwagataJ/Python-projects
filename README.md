@@ -1,3 +1,2 @@
-# Music_Player
-This is a music player app built with python. It currently does not have a gui.
-This can be used by using text or action buttons
+# Python Projects
+This repo contains all mini-projects I undertook during the Covid-19 situation. 
